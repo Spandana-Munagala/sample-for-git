@@ -5,6 +5,8 @@ lkdsjflkdsjf
 llkdsjfldskjf
 ASDFQWERTY 
 modified by rao..
+<<<<<<< HEAD
 modified by Madhu
 new line
 abc
+Trying to explain fork and pull request (PR)
